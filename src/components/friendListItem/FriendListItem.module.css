@@ -1,0 +1,28 @@
+.item{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background-color: #fff;
+    padding: 6px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 5px 0px rgba(161,155,161,1);
+}
+
+.avatar {
+    width: 60px;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.icon {
+    width: 20px; 
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(192, 57, 57);
+}
+
+.online {
+    background-color: #028a14;
+}
